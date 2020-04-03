@@ -1,2 +1,2 @@
-#something as header
-jsjhdjdklsksjjdkldks
+# Readme Repository
+This is the sample text as "Hello World !"
